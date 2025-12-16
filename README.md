@@ -1,3 +1,3 @@
 # Help-request
 
-[![Discussions](https://img.shields.io/badge/Discussions-Join-blue)]
+![Discussions](https://img.shields.io/badge/Discussions-Join-blue)
